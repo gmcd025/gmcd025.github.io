@@ -73,18 +73,28 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(360deg);
 }
-.tag {
+/*.tag {
   background-color: #efefef;
   color: black;
   padding: 10px;
   border-radius: 5px;
   display: table;
   margin: 10px auto;
-} 
-.location {
-  background-color: #efefef;
-  color: #222;
+} */ 
+.tag {
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  display: table;
+  margin: 10px auto;
+  font-size: 25px;
 }
+  
+.location {
+  color: white;
+  font-size: 15px;
+}
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
