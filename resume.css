@@ -24,6 +24,8 @@ header {
   color: white;
 }
 
+
+/*split left and right are classes to attempt to have to veritcal sections for the 'skills' and 'experience' fields
 .split {
   height: 100%;
   width: 50%;
@@ -41,7 +43,7 @@ header {
 .right {
   right: 0;
 }
-
+*/
 
 h1 {
   text-align: center;
