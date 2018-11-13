@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: ##e6e6e6;
 }
 /* Link Styles */
 
@@ -97,9 +97,7 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
 }
-.card:hover {
-  border-color: #ff99ff;
-}
+.card:hover {}
 
 #resume-link {
   color: darkgrey;
