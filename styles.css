@@ -73,14 +73,7 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(360deg);
 }
-/*.tag {
-  background-color: #efefef;
-  color: black;
-  padding: 10px;
-  border-radius: 5px;
-  display: table;
-  margin: 10px auto;
-} */ 
+
 .tag {
   color: white;
   padding: 10px;
@@ -106,6 +99,10 @@ header .profile-image:hover {
 }
 .card:hover {
   border-color: #ff99ff;
+}
+
+#resume-link {
+  color: darkgrey;
 }
 
 ul.skills {
