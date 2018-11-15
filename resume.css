@@ -10,6 +10,14 @@ body {
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+  color: #efefef;
+}
+a:hover {
+  color: #6633ff;
+}
+
 .main-nav {
   width: 100%;
   background: black;
