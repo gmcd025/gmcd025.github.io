@@ -54,6 +54,7 @@ body {
 .column {
   float: left;
   width: 25%;
+  margin-top: 200px;
 }
 /* The Modal (background) */
 .modal {
