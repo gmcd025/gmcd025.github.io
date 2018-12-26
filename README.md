@@ -8,3 +8,5 @@ Initially, as all websites must, this will be a very basic website with HTML and
 As I continue however, I will be adding more complex functions, such as the 'Photos' page which has the first JavaScript function on the website.
 
 This will be a work in progress, so this will be changing and improving over time, hope you can enjoy!
+
+https://gmcd025.github.io/
