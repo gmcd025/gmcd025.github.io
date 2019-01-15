@@ -1,10 +1,12 @@
 body {
   font-family: Calibri, sans-serif;
   margin: 0;
+  text-align: center;
 }
 
 h1 {
-
+    margin-top: auto;
+    padding-top: 100px;
 }
 
 a {
