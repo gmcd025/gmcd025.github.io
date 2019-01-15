@@ -22,8 +22,9 @@ a:hover {
   min-height: 30px;
   padding: 10px;
   position: fixed;
-  text-align: center;
+  text-align: right;
 }
+
 .nav {
   display: flex;
   justify-content: space-around;
@@ -32,15 +33,19 @@ a:hover {
   margin: 0 auto;
   padding: 0;
 }
+
 .nav .name {
   display: none;
 }
+
 .nav li {
   padding: 5px 10px 10px 10px;
 }
+
 .nav a {
   transition: all .5s;
 }
+
 .nav a:hover {
   color: #efefef
 }
