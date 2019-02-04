@@ -56,6 +56,7 @@ header {
   text-align: center;
   background: url('big-ben-bridge-castle-460672.jpg') no-repeat top center ;
   background-size: cover;
+  background-position: center;
   overflow: hidden;
   padding-top: 60px;
 }
